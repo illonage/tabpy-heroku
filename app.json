@@ -5,19 +5,14 @@
     "logo": "",
     "keywords": ["tableau", "python", "analytics-extension"],
     "env":{
-        "USERNAME":{
-            "description": "username",
-            "value": "gzanolli",
-            "required": "true"
-        },
         "PASSWORD":{
             "description": "password",
             "value": "password",
             "required": "true"
         },
-        "URL":{
-            "description": "URL",
-            "value": "https://padthai-ggtest.herokuapp.com/",
+        "USERNAME":{
+            "description": "username",
+            "value": "gzanolli",
             "required": "true"
         }
     }
