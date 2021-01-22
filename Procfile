@@ -1,1 +1,1 @@
-web: export TABPY_PORT=$PORT && export TABPY_PWD_FILE=./file.txt && tabpy && tabpy-user add -u $USERNAME -p $PASSWORD -f ./file.txt
+web: export TABPY_PORT=$PORT && export TABPY_PWD_FILE=$URL && tabpy && tabpy-user add -u $USERNAME -p $PASSWORD -f $URL
