@@ -5,15 +5,15 @@
     "logo": "",
     "keywords": ["tableau", "python", "analytics-extension"],
     "env":{
-        "PASSWORD":{
-            "description": "password",
-            "value": "password",
-            "required": "true"
-        },
         "USERNAME":{
             "description": "username",
             "value": "gzanolli",
-            "required": "true"
+            "required": "false"
+        },
+        "PASSWORD":{
+            "description": "password",
+            "value": "password",
+            "required": "false"
         }
     }
 }
