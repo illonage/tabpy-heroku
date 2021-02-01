@@ -8,12 +8,12 @@
         "USERNAME":{
             "description": "username",
             "value": "gzanolli",
-            "required": "false"
+            "required": false
         },
         "PASSWORD":{
             "description": "password",
             "value": "password",
-            "required": "false"
+            "required": false
         }
     }
 }
